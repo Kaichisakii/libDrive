@@ -4,10 +4,10 @@
   </h3>
 </a>
 <p align="center">
-  <a href="https://github.com/libDrive/libDrive/releases">
+  <a href="https://github.com/Kaichisakii/libDrive/releases">
     <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
   </a>
-  <a href="https://github.com/libDrive/libDrive/releases/latest">
+  <a href="https://github.com/Kaichisakii/libDrive/releases/latest">
     <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
   </a>
 </p>
@@ -32,12 +32,12 @@ This repository (<https://github.com/Kaichisakii/libDrive>) only acts as a hub f
 
 ## Source code
 
-- [libDrive/libDrive](https://github.com/libDrive/libDrive)
-- [libDrive/server](https://github.com/libDrive/server)
-- [libDrive/web](https://github.com/libDrive/web)
-- [libDrive/cloudflare](https://github.com/libDrive/cloudflare)
-- [libDrive/heroku](https://github.com/libDrive/heroku)
-- [libDrive/config](https://github.com/libDrive/config)
+- [libDrive/libDrive](https://github.com/Kaichisakii/libDrive)
+- [libDrive/server](https://github.com/Kaichisakii/server)
+- [libDrive/web](https://github.com/Kaichisakii/web)
+- [libDrive/cloudflare](https://github.com/Kaichisakii/cloudflare)
+- [libDrive/heroku](https://github.com/Kaichisakii/heroku)
+- [libDrive/config](https://github.com/Kaichisakii/config)
 
 ## Features
 
@@ -52,9 +52,9 @@ This repository (<https://github.com/Kaichisakii/libDrive>) only acts as a hub f
   - Language
   - Genres
 - 👥 User management which includes:
-  - Public [sign up](https://github.com/libDrive/libDrive/wiki/Config#signup)
+  - Public [sign up](https://github.com/Kichisakii/libDrive/wiki/Config#signup)
   - Closed signup (manual account creation)
-  - [No authentication](https://github.com/libDrive/libDrive/wiki/Config#auth) (public)
+  - [No authentication](https://github.com/Kaichisakii/libDrive/wiki/Config#auth) (public)
   - [Whitelisting](https://github.com/libDrive/libDrive/wiki/Config#category_list)
   - [Blacklisting](https://github.com/libDrive/libDrive/wiki/Config#account_list)
 - 🔀 Quality selection using Google Drive [transcoded videos](https://github.com/libDrive/libDrive/wiki/Config#transcoded)
